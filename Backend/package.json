@@ -2,14 +2,15 @@
     "name": "bookstore",
     "version": "1.0.0",
     "description": "mern project",
-    "homepage": "https://github.com/akhil2k-lc/bookStoreApp#readme",
-    "bugs": {
-        "url": "https://github.com/akhil2k-lc/bookStoreApp/issues"
-    },
     "repository": {
-        "type": "git",
-        "url": "git+https://github.com/akhil2k-lc/bookStoreApp.git"
-    },
+  "type": "git",
+  "url": "git+https://github.com/IshaShah04/My-Bookstore.git"
+},
+"bugs": {
+  "url": "https://github.com/IshaShah04/My-Bookstore/issues"
+},
+"homepage": "https://github.com/IshaShah04/My-Bookstore#readme",
+
     "license": "ISC",
     "author": "Isha Shah",
     "type": "module",
