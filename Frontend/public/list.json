@@ -1,0 +1,100 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Charlie in the Chocolate Factory",
+        "price":10,
+        "category":"Entertainment",
+        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=d208fa6b-ae45-43e6-9ffd-a743ceb4f575&query=books"
+    },
+
+     {
+        "id":2,
+        "name":"Fiction",
+        "title":"Charlie in the Chocolate Factory",
+        "price":5,
+        "category":"Fiction",
+        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=d208fa6b-ae45-43e6-9ffd-a743ceb4f575&query=books"
+    },
+
+     {
+        "id":3,
+        "name":"Non-Fiction",
+        "title":"Charlie in the Chocolate Factory",
+        "price":50,
+        "category":"Children",
+        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=d208fa6b-ae45-43e6-9ffd-a743ceb4f575&query=books"
+    },
+
+     {
+        "id":4,
+        "name":"Sports",
+        "title":"Charlie in the Chocolate Factory",
+        "price":40,
+        "category":"Sports",
+        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=d208fa6b-ae45-43e6-9ffd-a743ceb4f575&query=books"
+    },
+
+     {
+        "id":5,
+        "name":"Recipe",
+        "title":"Charlie in the Chocolate Factory",
+        "price":50,
+        "category":"Food",
+        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=d208fa6b-ae45-43e6-9ffd-a743ceb4f575&query=books"
+    },
+
+     {
+        "id":6,
+        "name":"Comics",
+        "title":"Charlie in the Chocolate Factory",
+        "price":30,
+        "category":"Entertainment",
+        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=d208fa6b-ae45-43e6-9ffd-a743ceb4f575&query=books"
+    },
+
+     {
+        "id":7,
+        "name":"Story Book",
+        "title":"Charlie in the Chocolate Factory",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=d208fa6b-ae45-43e6-9ffd-a743ceb4f575&query=books"
+    },
+
+     {
+        "id":8,
+        "name":"History",
+        "title":"Charlie in the Chocolate Factory",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=d208fa6b-ae45-43e6-9ffd-a743ceb4f575&query=books"
+    },
+
+     {
+        "id":9,
+        "name":"Autobiography",
+        "title":"Charlie in the Chocolate Factory",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=d208fa6b-ae45-43e6-9ffd-a743ceb4f575&query=books"
+    },
+
+     {
+        "id":10,
+        "name":"Poetry",
+        "title":"Charlie in the Chocolate Factory",
+        "price":0,
+        "category":"Free",
+        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=d208fa6b-ae45-43e6-9ffd-a743ceb4f575&query=books"
+    },
+
+     {
+        "id":11,
+        "name":"Story Book",
+        "title":"Charlie in the Chocolate Factory",
+        "price":20,
+        "category":"Story",
+        "image":"https://www.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_24307396.htm#fromView=search&page=1&position=0&uuid=d208fa6b-ae45-43e6-9ffd-a743ceb4f575&query=books"
+    }
+]
