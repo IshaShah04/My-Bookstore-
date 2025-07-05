@@ -1,23 +1,23 @@
 {
-    "name": "isha_shah_bookstore",
+    "name": "bookstore",
     "version": "1.0.0",
     "description": "mern project",
-    "main": "index.js",
-    "type": "module",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "nodemon index.js"
+    "homepage": "https://github.com/akhil2k-lc/bookStoreApp#readme",
+    "bugs": {
+        "url": "https://github.com/akhil2k-lc/bookStoreApp/issues"
     },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/akhil2k-lc/bookStoreApp.git"
     },
-    "author": "Isha Shah",
     "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/akhil2k-lc/bookStoreApp/issues"
+    "author": "Isha Shah",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon index.js"
     },
-    "homepage": "https://github.com/akhil2k-lc/bookStoreApp#readme",
     "dependencies": {
         "bcryptjs": "^2.4.3",
         "cors": "^2.8.5",
