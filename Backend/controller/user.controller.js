@@ -1,8 +1,6 @@
-// Controller for user authentication – Quite by Isha Shah
 import User from "../model/user.model.js";
 import bcryptjs from "bcryptjs";
 
-// Handle user signup
 export const signup = async (req, res) => {
     try {
         const { fullname, email, password } = req.body;
@@ -13,21 +11,14 @@ export const signup = async (req, res) => {
         }
 
         const hashedPassword = await bcryptjs.hash(password, 10);
-        const newUser = new User({
-            fullname,
-            email,
-            password: hashedPassword,
-        });
+        const createduser=newUser({
+            fullname:fullname,
+            email:email,
+            password:password,
 
-        await newUser.save();
-        res.status(201).json({
-            message: "Welcome to Quite, " + fullname + "! Your account has been created.",
-            user: {
-                _id: newUser._id,
-                fullname: newUser.fullname,
-                email: newUser.email,
-            },
         });
+        await newUser.save();
+        res.status(201).json({user:"user created succsessfully"});
     } catch (error) {
         console.error("Signup Error:", error.message);
         res.status(500).json({ message: "Signup failed. Please try again later." });
